@@ -4,7 +4,7 @@ Overview: The project aims to develop an AI system for early detection of diabet
 
 
 Objectives:
-Data: Collected 5000 images and preprocess diverse retinal images.<br>
+Data: Collected 5000 images and preprocess diverse retinal images. <br>
 Model: Train a deep learning model (e.g., CNN) for accurate classification.<br>
 Classification: Categorize retinopathy severity levels.<br>
 Interpretability: Provide insights into model decisions.<br>
