@@ -1,15 +1,15 @@
-# -AI-Diabetic-Retinopathy-Detection
+# -AI Automatic Detection of Diabetes Retinopathy using Deep Learning Model CNN
 
 Overview: The project aims to develop an AI system for early detection of diabetic retinopathy using retinal images. By analyzing these images, the system will classify cases into different stages of retinopathy. 
 
 
 Objectives:
-Data: Collect and preprocess diverse retinal images.
+Data: Collected 5000 images and preprocess diverse retinal images.
 Model: Train a deep learning model (e.g., CNN) for accurate classification.
 Classification: Categorize retinopathy severity levels.
 Interpretability: Provide insights into model decisions.
-Interface: Create user-friendly app for image uploads and results.
-Evaluation: Assess model accuracy and performance.
+Interface: Create user-friendly app using Flask framework for image uploads and results and for database I used Django
+Evaluation: Achieved 95% model accuracy with good performance.
 Ethics: Ensure privacy, transparency, and medical oversight.
 
 
