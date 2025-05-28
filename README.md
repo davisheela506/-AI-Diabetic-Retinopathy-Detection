@@ -4,13 +4,13 @@ Overview: The project aims to develop an AI system for early detection of diabet
 
 
 Objectives:
-Data: Collected 5000 images and preprocess diverse retinal images.
-Model: Train a deep learning model (e.g., CNN) for accurate classification.
-Classification: Categorize retinopathy severity levels.
-Interpretability: Provide insights into model decisions.
-Interface: Create user-friendly app using Flask framework for image uploads and results and for database I used Django
-Evaluation: Achieved 95% model accuracy with good performance.
-Ethics: Ensure privacy, transparency, and medical oversight.
+Data: Collected 5000 images and preprocess diverse retinal images.<br>
+Model: Train a deep learning model (e.g., CNN) for accurate classification.<br>
+Classification: Categorize retinopathy severity levels.<br>
+Interpretability: Provide insights into model decisions.<br>
+Interface: Create user-friendly app using Flask framework for image uploads and results and for database I used Django<br>
+Evaluation: Achieved 95% model accuracy with good performance.<br>
+Ethics: Ensure privacy, transparency, and medical oversight.<br>
 
 
 Outcome:
